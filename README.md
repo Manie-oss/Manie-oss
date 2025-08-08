@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [mansipatel.netlify.app/](mansipatel.netlify.app/)
+- 👨‍💻 All of my projects are available at [mansipatel.netlify.app/](http://mansipatel.netlify.app/)
 
 - 📫 How to reach me **to.mansip@gmail.com**
 
